@@ -1,0 +1,9 @@
+.bsp
+target/
+.bloop
+.idea
+.history
+.metals/
+.vscode/
+.project
+.settings
